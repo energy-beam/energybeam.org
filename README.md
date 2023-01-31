@@ -25,7 +25,7 @@ www.energybeam.org
 
 
 
-## keywoards
+## keywords
 
 energy beam.
 energy beams.
