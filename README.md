@@ -4,7 +4,14 @@ www.energybeam.org
 + “The potential of the technology is to capture sunlight and then beam it wirelessly.” On Earth, this solar energy would then supply cities, factories, households and eventually aeroplanes with electricity. 
 
 ![image](https://user-images.githubusercontent.com/5669657/216295387-aaf92b1d-63d6-40d3-a9b8-16807a5490c7.png)
+
 [Space-based solar power - Wikipedia](https://en.wikipedia.org/wiki/Space-based_solar_power)
+
+
+![image](https://user-images.githubusercontent.com/5669657/216295945-29e01a40-8c3a-4b79-a134-cffc5ab6a09e.png)
+
+[Esa mulls Solaris plan to beam solar energy from space - BBC News](https://www.bbc.com/news/science-environment-62982113)
+
 
 ## About
 
