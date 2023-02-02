@@ -1,13 +1,17 @@
 # www.energybeam.org - “The potential of the technology is to capture sunlight and then beam it wirelessly.” On Earth, this solar energy would then supply cities, factories, households and eventually aeroplanes with electricity. 
 
+
+## [Esa mulls Solaris plan to beam solar energy from space - BBC News](https://www.bbc.com/news/science-environment-62982113)
 ![image](https://user-images.githubusercontent.com/5669657/216296108-656dea1e-b9c7-4a41-aaf9-c7bbb43bd3af.png)
 
-[Esa mulls Solaris plan to beam solar energy from space - BBC News](https://www.bbc.com/news/science-environment-62982113)
 
+
+
+## [Space-based solar power - Wikipedia](https://en.wikipedia.org/wiki/Space-based_solar_power)
 
 ![image](https://user-images.githubusercontent.com/5669657/216295387-aaf92b1d-63d6-40d3-a9b8-16807a5490c7.png)
 
-[Space-based solar power - Wikipedia](https://en.wikipedia.org/wiki/Space-based_solar_power)
+
 
 
 
@@ -51,7 +55,7 @@
 
 + [News - ESA Business Incubation Centre Poland](https://esabic.pl/news/)
 + [ESA - ESA Council Meeting at Ministerial Level - Opening and Statements](https://www.esa.int/ESA_Multimedia/Videos/2022/11/ESA_Council_Meeting_at_Ministerial_Level_-_Opening_and_Statements)
-+ [Airbus launches European Defence Fund R&D projects | Airbus](https://www.airbus.com/en/newsroom/press-releases/2023-01-airbus-launches-european-defence-fund-rd-projects)
++ [Airbus launches European Defence Fund R&D projects - Airbus](https://www.airbus.com/en/newsroom/press-releases/2023-01-airbus-launches-european-defence-fund-rd-projects)
 
 
 ## Companies
