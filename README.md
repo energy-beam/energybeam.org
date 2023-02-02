@@ -3,6 +3,9 @@ www.energybeam.org
 
 + “The potential of the technology is to capture sunlight and then beam it wirelessly.” On Earth, this solar energy would then supply cities, factories, households and eventually aeroplanes with electricity. 
 
+![image](https://user-images.githubusercontent.com/5669657/216295387-aaf92b1d-63d6-40d3-a9b8-16807a5490c7.png)
+[Space-based solar power - Wikipedia](https://en.wikipedia.org/wiki/Space-based_solar_power)
+
 ## About
 
 + [Scientists Figure Out A Way To Beam Solar Energy From Space](https://wonderfulengineering.com/now-you-can-harvest-solar-energy-from-space/)
@@ -36,7 +39,30 @@ www.energybeam.org
 > W trakcie posiedzenia Rady Europejskiej Agencji Kosmicznej na szczeblu ministerialnym (CM22) w Paryżu w dniach 22 i 23 listopada br., kraje członkowskie przyjęły ambitne plany związane z umacnianiem europejskiej pozycji w kosmosie. Badania naukowe kosmosu będą kontynuowane, ale dużo silniejszy nacisk będzie położony na praktyczne wykorzystanie kosmosu. Coraz większe znaczenie mają technologie, które zwiększają bezpieczeństwo Europy, przyczyniają się do rozwoju gospodarek krajowych, a także zapewniają wygodę życia jej obywateli. Łączny budżet, którym będzie dysponowała ESA w latach 2023-2025 na realizację powyższych założeń wynosi 17mld EUR.
 
 
-## Basics
+
+## Projects
+
++ [News - ESA Business Incubation Centre Poland](https://esabic.pl/news/)
++ [ESA - ESA Council Meeting at Ministerial Level - Opening and Statements](https://www.esa.int/ESA_Multimedia/Videos/2022/11/ESA_Council_Meeting_at_Ministerial_Level_-_Opening_and_Statements)
++ [Airbus launches European Defence Fund R&D projects | Airbus](https://www.airbus.com/en/newsroom/press-releases/2023-01-airbus-launches-european-defence-fund-rd-projects)
+
+
+## Companies
+Sener, Airbus
+
++ [Sener: innovative technology for a sustainable future](https://www.group.sener/?lang=en)
++ [Poland - Sener](https://www.group.sener/poland/?lang=en)
++ [Solar power beams: a step towards cleaner energy - Airbus](https://www.airbus.com/en/newsroom/news/2022-09-solar-power-beams-a-step-towards-cleaner-energy)
+
+
+
+## Info
+
+[Space-based solar power - Wikipedia](https://en.wikipedia.org/wiki/Space-based_solar_power)
+
+> **Space-based solar power** (**SBSP**, **SSP**) is the concept of collecting [solar power](https://en.wikipedia.org/wiki/Solar_power "Solar power") in [outer space](https://en.wikipedia.org/wiki/Outer_space "Outer space") by **solar power satellites** (**SPS**) and distributing it to [Earth](https://en.wikipedia.org/wiki/Earth "Earth"). Its advantages include a higher collection of energy due to the lack of [reflection](https://en.wikipedia.org/wiki/Reflection_(physics) "Reflection (physics)") and absorption by the [atmosphere](https://en.wikipedia.org/wiki/Atmosphere_of_Earth "Atmosphere of Earth"), the possibility of very little night, and a better ability to orient to face the sun. Space-based solar power systems convert [sunlight](https://en.wikipedia.org/wiki/Sunlight "Sunlight") to some other form of energy (such as [microwaves](https://en.wikipedia.org/wiki/Microwave "Microwave")) which can be transmitted through the atmosphere to receivers on the Earth's surface.
+
+
 
 [10 lat Polski w Europejskiej Agencji Kosmicznej - Ministerstwo Rozwoju i Technologii - Portal Gov.pl](https://www.gov.pl/web/rozwoj-technologia/esa)
 
@@ -52,19 +78,6 @@ www.energybeam.org
 > -   19 listopada 2012 roku - Polska stała się dwudziestym państwem członkowskim ESA.
 > 
 
-
-## Projects
-
-+ [News - ESA Business Incubation Centre Poland](https://esabic.pl/news/)
-+ [ESA - ESA Council Meeting at Ministerial Level - Opening and Statements](https://www.esa.int/ESA_Multimedia/Videos/2022/11/ESA_Council_Meeting_at_Ministerial_Level_-_Opening_and_Statements)
-+ [Airbus launches European Defence Fund R&D projects | Airbus](https://www.airbus.com/en/newsroom/press-releases/2023-01-airbus-launches-european-defence-fund-rd-projects)
-
-
-## Companies
-
-+ [Sener: innovative technology for a sustainable future](https://www.group.sener/?lang=en)
-+ [Poland - Sener](https://www.group.sener/poland/?lang=en)
-+ [Solar power beams: a step towards cleaner energy | Airbus](https://www.airbus.com/en/newsroom/news/2022-09-solar-power-beams-a-step-towards-cleaner-energy)
 
 
 ## keywords
