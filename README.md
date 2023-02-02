@@ -1,7 +1,4 @@
-# www
-www.energybeam.org
-
-+ “The potential of the technology is to capture sunlight and then beam it wirelessly.” On Earth, this solar energy would then supply cities, factories, households and eventually aeroplanes with electricity. 
+# www.energybeam.org - “The potential of the technology is to capture sunlight and then beam it wirelessly.” On Earth, this solar energy would then supply cities, factories, households and eventually aeroplanes with electricity. 
 
 ![image](https://user-images.githubusercontent.com/5669657/216296108-656dea1e-b9c7-4a41-aaf9-c7bbb43bd3af.png)
 
