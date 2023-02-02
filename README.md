@@ -19,8 +19,11 @@
 
 
 ## [ESA - ESA Council Meeting at Ministerial Level - Opening and Statements](https://www.esa.int/ESA_Multimedia/Videos/2022/11/ESA_Council_Meeting_at_Ministerial_Level_-_Opening_and_Statements)
+It is time for critical decisions about space in Europe. For two days on 22 and 23 November, ESA Member States, Associate States and Cooperating States observers are gathering in Paris to discuss how to strengthen Europe’s space sector for the benefit of all
+[video - 2211_029_AR_EN.mp4](https://dlmultimedia.esa.int/download/public/videos/2022/11/029/2211_029_AR_EN.mp4)
 
-[2211_029_AR_EN.mp4](https://dlmultimedia.esa.int/download/public/videos/2022/11/029/2211_029_AR_EN.mp4)
+
+
 
 ## About
 
