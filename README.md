@@ -23,6 +23,15 @@ It is time for critical decisions about space in Europe. For two days on 22 and 
 [video - 2211_029_AR_EN.mp4](https://dlmultimedia.esa.int/download/public/videos/2022/11/029/2211_029_AR_EN.mp4)
 
 
+## Weapons
+
+[EXPLAINED: What is Israel's New Air Defence System 'Iron Beam'?](https://www.indiatimes.com/explainers/news/what-is-israels-new-air-defence-system-iron-beam-567726.html)
+Israel desired a replacement for the Iron Dome, but the dome was prioritised because laser technology was not a cost-effective weapon at the time. In 2009, Rafael began developing a laser-based defence system. At the Singapore Air Show in 2014, the business debuted an initial form of the Iron Beam.
+
+![image](https://user-images.githubusercontent.com/5669657/216313120-42d917b3-2900-4abb-b233-17dc3ba101ef.png)
+
+
+
 ## Slides Presentation
 
 + [Space Based Solar Power (SBSP)](https://www.slideshare.net/asertseminar/space-based-solar-power-31961792)
