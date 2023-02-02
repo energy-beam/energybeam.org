@@ -29,6 +29,21 @@ www.energybeam.org
 > W trakcie posiedzenia Rady Europejskiej Agencji Kosmicznej na szczeblu ministerialnym (CM22) w Paryżu w dniach 22 i 23 listopada br., kraje członkowskie przyjęły ambitne plany związane z umacnianiem europejskiej pozycji w kosmosie. Badania naukowe kosmosu będą kontynuowane, ale dużo silniejszy nacisk będzie położony na praktyczne wykorzystanie kosmosu. Coraz większe znaczenie mają technologie, które zwiększają bezpieczeństwo Europy, przyczyniają się do rozwoju gospodarek krajowych, a także zapewniają wygodę życia jej obywateli. Łączny budżet, którym będzie dysponowała ESA w latach 2023-2025 na realizację powyższych założeń wynosi 17mld EUR.
 
 
+## Basics
+
+[10 lat Polski w Europejskiej Agencji Kosmicznej - Ministerstwo Rozwoju i Technologii - Portal Gov.pl](https://www.gov.pl/web/rozwoj-technologia/esa)
+
+> ### Polska w ESA
+> 
+> Bardzo ważnym krokiem dla rozwoju sektora kosmicznego w Polsce było wstąpienie Polski w 2012 roku do Europejskiej Agencji Kosmicznej.
+> 
+> Najważniejsze daty to:
+> 
+> -   lipiec 2012 roku - Rada ESA jednomyślnie zaakceptowała przystąpienie Polski do ESA,
+> -   13 września 2012 r. - w Warszawie podpisano dokumenty akcesyjne. Stronę polską reprezentował wówczas wicepremier, minister gospodarki Waldemar Pawlak, a ESA jej ówczesny Dyrektor Generalny Jean-Jacques Dordain,
+> -   listopad 2012 roku - ratyfikacja umowy przez polski Parlament i Prezydenta RP,
+> -   19 listopada 2012 roku - Polska stała się dwudziestym państwem członkowskim ESA.
+> 
 
 
 ## Projects
