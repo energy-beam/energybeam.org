@@ -19,6 +19,10 @@
 
 ## About
 
+celem powstania tej strony jest szerzenie informacji o technologii, projektach, firmach, nowościach. 
+Na projekty zwiążane z energy beam jest duże zapotrzebowanie i ogromne finansowanie, bo tak jak technologia NFC pozwala na wymianę energii i danych ale na setki kilometrów i to kierowanym strumieniem, dynamicznie od potrzeb, czyli to potencjalnie rynek zasilania mobilnych robotów
+
+
 + [Scientists Figure Out A Way To Beam Solar Energy From Space](https://wonderfulengineering.com/now-you-can-harvest-solar-energy-from-space/)
 
 > Beam
