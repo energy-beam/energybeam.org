@@ -57,6 +57,7 @@ www.energybeam.org
 
 + [Sener: innovative technology for a sustainable future](https://www.group.sener/?lang=en)
 + [Poland - Sener](https://www.group.sener/poland/?lang=en)
++ [Solar power beams: a step towards cleaner energy | Airbus](https://www.airbus.com/en/newsroom/news/2022-09-solar-power-beams-a-step-towards-cleaner-energy)
 
 ## keywords
 
