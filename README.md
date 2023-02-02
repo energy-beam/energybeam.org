@@ -34,7 +34,7 @@ www.energybeam.org
 ## Projects
 
 + [News - ESA Business Incubation Centre Poland](https://esabic.pl/news/)
-
++ [ESA - ESA Council Meeting at Ministerial Level - Opening and Statements](https://www.esa.int/ESA_Multimedia/Videos/2022/11/ESA_Council_Meeting_at_Ministerial_Level_-_Opening_and_Statements)
 
 
 
