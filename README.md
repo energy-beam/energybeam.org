@@ -27,6 +27,33 @@ It is time for critical decisions about space in Europe. For two days on 22 and 
 
 + [Space Based Solar Power (SBSP)](https://www.slideshare.net/asertseminar/space-based-solar-power-31961792)
 
+Space-based solar power (SBSP) is the concept of collecting solar power in space (using an "SPS", that is, a "solar-power satellite" or a "satellite power system") for use on Earth.It has been in research since the early 1970s. 
+
+Design Space-based solar power essentially consists of three elements: 
+• a means of collecting solar power in space, for example via solar concentrators, solar cells or a heat engine. 
+• a means of transmitting power to earth, for example via microwave or laser. 
+• a means of receiving power on earth, for example via a microwave antenna (rectenna).
+
+Microwave power transmission • Power transmission via radio waves can be made more directional, allowing longer distance power beaming, with shorter wavelengths of electromagnetic radiation, typically in the microwave range. • A rectenna may be used to convert the microwave energy back into electricity. • NASA Study of solar power satellites required a 1-km diameter transmitting antenna, and a 10 km diameter receiving rectenna, for a microwave beam at 2.45 GHz. • Experiments in the tens of kilowatts have been performed . • Conversion efficiency under experimental conditions was measured to be around 54% efficient. 
+
+
+Challenges
+
+The most significant technical challenges are the development of 
+• Low-cost re-usable space access 
+• Dealing with launch costs 
+• Demonstration of space-to-Earth power beaming 
+• Efficient and light space-qualified solar arrays 
+• Space Assembly, Maintenance and Servicing, and 
+• Large in-space structures
+
+### References
+http://www.nss.org/settlement/ssp/ 
+http://martianchronicles.wordpress.com/2010/06/20/our-burningneed-for-energ/
+http://en.wikipedia.org/wiki/Spacebased_solar_power#Microwave_power_transmission
+http://spacesolarpower.files.wordpress.com 
+
+
 
 
 ## About
