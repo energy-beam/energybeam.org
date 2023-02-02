@@ -32,6 +32,10 @@ Israel desired a replacement for the Iron Dome, but the dome was prioritised bec
 
 
 
+"Introduction of laser-based directed energy weapons (DEWs) is set to dramati-cally alter the war-fighting capabilities of nations by making possible execution of missions that would be extremely complex, if not impossible, to realize with conventional KEWs"
+
+
+
 ## Slides Presentation
 
 + [Space Based Solar Power (SBSP)](https://www.slideshare.net/asertseminar/space-based-solar-power-31961792)
@@ -63,6 +67,9 @@ http://en.wikipedia.org/wiki/Spacebased_solar_power#Microwave_power_transmission
 http://spacesolarpower.files.wordpress.com 
 
 
+## Books
+
+https://www.amazon.de/Directed-Energy-Beam-Weapons-Bahman-Zohuri/dp/3030207935
 
 
 ## About
