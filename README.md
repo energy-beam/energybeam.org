@@ -4,8 +4,6 @@ www.energybeam.org
 
 
 
-
-
 ## [Programme - ESA Business Incubation Centre Poland](https://esabic.pl/programme/)
 
 > The package of services offered through ESA BIC Incubation to startups during the first two years is the following:
@@ -23,6 +21,9 @@ www.energybeam.org
 > The principle for assessment is based on the main characteristics of a valid space connection. The principle should work for the majority of business ideas expected to be proposed to an ESA BIC. However, as innovations tend to lead to new types of technologies and applications that fall outside the range of commonly proposed ideas, it may happen that more information is needed at a later stage. Details on the space connection assessment can be found in the Permanent Open Call Package.
 
 
+## Companies
+
++ [Sener: innovative technology for a sustainable future](https://www.group.sener/?lang=en)
 
 
 ## keywords
