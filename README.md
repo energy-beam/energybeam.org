@@ -23,6 +23,10 @@ It is time for critical decisions about space in Europe. For two days on 22 and 
 [video - 2211_029_AR_EN.mp4](https://dlmultimedia.esa.int/download/public/videos/2022/11/029/2211_029_AR_EN.mp4)
 
 
+## Slides Presentation
+
++ [Space Based Solar Power (SBSP)](https://www.slideshare.net/asertseminar/space-based-solar-power-31961792)
+
 
 
 ## About
