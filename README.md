@@ -20,7 +20,7 @@
 
 ## [ESA - ESA Council Meeting at Ministerial Level - Opening and Statements](https://www.esa.int/ESA_Multimedia/Videos/2022/11/ESA_Council_Meeting_at_Ministerial_Level_-_Opening_and_Statements)
 
-![2211_029_AR_EN.mp4](https://dlmultimedia.esa.int/download/public/videos/2022/11/029/2211_029_AR_EN.mp4)
+[2211_029_AR_EN.mp4](https://dlmultimedia.esa.int/download/public/videos/2022/11/029/2211_029_AR_EN.mp4)
 
 ## About
 
