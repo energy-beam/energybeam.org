@@ -24,7 +24,7 @@ www.energybeam.org
 ## Companies
 
 + [Sener: innovative technology for a sustainable future](https://www.group.sener/?lang=en)
-
++ [Poland - Sener](https://www.group.sener/poland/?lang=en)
 
 ## keywords
 
