@@ -124,7 +124,15 @@ Sener, Airbus
 + [Poland - Sener](https://www.group.sener/poland/?lang=en)
 + [Solar power beams: a step towards cleaner energy - Airbus](https://www.airbus.com/en/newsroom/news/2022-09-solar-power-beams-a-step-towards-cleaner-energy)
 
+## JOB
 
+
++ [Join Space - Space Jobs, Space Events & Space Networking](https://jointhe.space/)
+
+
+## Reports
+
++ [Raport 2023: "Czy oczekiwania przyszłych pracowników branży Space są z Kosmosu?" - Space Jobs, Space Events & Space Networking](https://jointhe.space/raport-2023/)
 
 ## Info
 
