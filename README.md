@@ -12,6 +12,11 @@
 ![image](https://user-images.githubusercontent.com/5669657/216295387-aaf92b1d-63d6-40d3-a9b8-16807a5490c7.png)
 
 
+## menu
+
++ [links](LINKS.md)
+
+
 ## [Space-Based Solar Panels Beam Unlimited Energy to Earth](https://www.businessinsider.com/space-based-solar-panels-beam-unlimited-energy-to-earth-2015-9)
 
 ![image](https://user-images.githubusercontent.com/5669657/216305173-ff28ddb2-ebb7-4637-8417-4d4d47aba58b.png)
