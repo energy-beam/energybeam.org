@@ -1,14 +1,14 @@
 # Tokomak
 
 
-[Nuclear fusion: Can the stellarator unleash the power? | New Scientist](https://www.newscientist.com/article/2075031-nuclear-fusion-can-the-stellarator-unleash-the-power/?cmpid=SOC%7CNSNS%7C2016-GLOBAL-hoot)
+[Nuclear fusion: Can the stellarator unleash the power? - New Scientist](https://www.newscientist.com/article/2075031-nuclear-fusion-can-the-stellarator-unleash-the-power/?cmpid=SOC%7CNSNS%7C2016-GLOBAL-hoot)
 
 ![image](https://user-images.githubusercontent.com/5669657/223392294-1d1c907e-8283-4455-97da-3e7c4e266bff.png)
 
 
-+ [The UK Just Switched on it’s third Fusion Reactor | WordlessTech](https://wordlesstech.com/the-uk-just-switched-on-its-third-fusion-reactor/)
++ [The UK Just Switched on it’s third Fusion Reactor - WordlessTech](https://wordlesstech.com/the-uk-just-switched-on-its-third-fusion-reactor/)
 
-[The UK Just Switched on it’s third Fusion Reactor | WordlessTech](https://wordlesstech.com/the-uk-just-switched-on-its-third-fusion-reactor/)
+[The UK Just Switched on it’s third Fusion Reactor - WordlessTech](https://wordlesstech.com/the-uk-just-switched-on-its-third-fusion-reactor/)
 
 ST40 is the third stage of a five stage plan that will deliver fusion energy into the grid by 2030.
 
