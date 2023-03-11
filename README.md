@@ -122,6 +122,31 @@ Na projekty zwiążane z energy beam jest duże zapotrzebowanie i ogromne finans
 
 
 
+## Documentation
+
+
+[Essential Guide to Space-Based Solar Power - Tech. & Market](https://theclimateinnovator.com/2023/03/space-based-solar-power-is-our-renewable-future/)
+
+> ## What Is Space-Based Solar Power (SBSP) And Why Is It Becoming Important Now?
+> 
+> Space-based solar power or Space Solar Power (SSP) is a technology to:
+> 
+> 1. Capture solar power with giant satellites in space,
+> 2. Transmit the power wirelessly to Earth,
+> 3. Transform the wireless transmission back into power at a receiver station to feed it into the grid.
+> 
+> Originally imagined by Isaac Asimov in his short story “Reason” (1941), space-based solar power was dormant until the 1960s. US engineer Peter Glaser really dreamt up the concept in 1968, designing the first proposals.
+> 
+> There are essentially 3 different ways which can be used to send energy down to Earth from space:
+> 
+> 1. **Mirrors** can reflect sunlight directly to a point on Earth where it can be converted by solar PV or other solar technologies
+> 2. **Lasers** could be used to send the energy collected in space in a concentrated high-power beam, but can experience higher losses due to weather and atmospheric scattering
+> 3. **Microwaves** represent another option for beaming power down to Earth, but can be operated independent of the weather and experience lower losses (essentially, it’s a more powerful WiFi or your mobile phone connection)
+
+
+
+
+
 ## Projects
 
 + [News - ESA Business Incubation Centre Poland](https://esabic.pl/news/)
@@ -140,6 +165,7 @@ Sener, Airbus
 
 
 + [Join Space - Space Jobs, Space Events & Space Networking](https://jointhe.space/)
+
 
 
 ## Reports
@@ -181,3 +207,9 @@ power beam.
 energy beaming.
 beam energy 
 beaming energy.
+
+
+---
+
++ [edit](https://github.com/energy-beam/energybeam.org/edit/main/README.md)
+
