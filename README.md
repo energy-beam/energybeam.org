@@ -27,6 +27,7 @@
 + [Naoki Shinohara - MTT-S](https://mtt.org/profile/naoki-shinohara/)
 + [Space Structure Systems Laboratory](https://stage.tksc.jaxa.jp/taurus/member/miyazaki/old/e/topics/FY2016_02/index.html) 
 + [Efficiency Optimization of Laser-Based Wireless Power Transmission System - Power Electronics News](https://www.powerelectronicsnews.com/efficiency-optimization-of-laser-based-wireless-power-transmission-system/)
++ [Keysight World - Keysight](https://www.keysight.com/us/en/events/keysight-world.html?cmpid=OSM-2106051)
 + 
 
 ## menu
