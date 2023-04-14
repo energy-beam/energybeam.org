@@ -25,7 +25,6 @@
 + https://www8.cao.go.jp/cstp/stmain/wg3-5-1.pdf
 + [Naoki SHINOHARA](http://space.rish.kyoto-u.ac.jp/people/shino/index-e.htm)
 + [Naoki Shinohara - MTT-S](https://mtt.org/profile/naoki-shinohara/)
-+ [Przegląd realizacji wskaźników Polskiej Strategii Kosmicznej](https://www.pspa.pl/images/documents/Przeglad_wskaznikow_PSK_raport.pdf)
 
 
 ## menu
@@ -180,6 +179,39 @@ Sener, Airbus
 ## Reports
 
 + [Raport 2023: "Czy oczekiwania przyszłych pracowników branży Space są z Kosmosu?" - Space Jobs, Space Events & Space Networking](https://jointhe.space/raport-2023/)
+
++ [Stowarzyszenie Polskich Profesjonalistów Sektora Kosmicznego - Polish Space Professionals Association - STRONA GŁÓWNA](https://www.pspa.pl/index.php/pl/)
+
++ [Przegląd realizacji wskaźników Polskiej Strategii Kosmicznej](https://www.pspa.pl/images/documents/Przeglad_wskaznikow_PSK_raport.pdf)
+
+
+> W listopadzie 2022 roku PSPA zwróciło się do Ministerstwa Rozwoju i Technologii oraz Ministerstwa Edukacji i Nauki  z wnioskiem o udostępnienie informacji publicznej dot. realizacji Polskiej Strategii Kosmicznej: 
+> 
+> [![Wniosek o udostępnienie informacji publicznej MEiN][img1]](https://www.pspa.pl/images/documents/Wniosek_Informacja_Publiczna_MEiN.pdf)
+> 
+> Wniosek o udostępnienie informacji publicznej MEiN
+> 
+> [![Wniosek o udostępnienie informacji publicznej MEiN][img2]](https://www.pspa.pl/images/documents/Wniosek_Informacja_Publiczna_MRiT.pdf)
+> 
+> Wniosek o udostępnienie informacji publicznej MRiT
+> 
+> PSPA otrzymało odpowiedzi od obu Ministerstw w w grudniu 2022 roku: 
+> 
+> [![Wniosek o udostępnienie informacji publicznej MEiN][img3]](https://www.pspa.pl/images/documents/Odpowiedz_Wniosek_Informacja_Publiczna_MEiN.pdf)
+> 
+> Odpowiedź na wniosek o udostępnienie informacji publicznej MEiN
+> 
+> [![Wniosek o udostępnienie informacji publicznej MEiN][img4]](https://www.pspa.pl/images/documents/Odpowiedz_Wniosek_Informacja_Publiczna_MRiT.pdf)
+> 
+> Odpowiedź na wniosek o udostępnienie informacji publicznej MRiT
+> 
+> W odpowiedzi na informacje otrzymane od Ministerstw, Stowarzyszenie opracowało "Przegląd realizacji wskaźników Polskiej Strategii Kosmicznej", przekazany w odpowiedzi do MRiT oraz udostępniony poniżej do informacji publicznej: 
+> 
+> [![Wniosek o udostępnienie informacji publicznej MEiN][img5]](https://www.pspa.pl/images/documents/Przeglad_wskaznikow_PSK_raport.pdf)
+> 
+> Przegląd realizacji wskaźników Polskiej Strategii Kosmicznej
+> 
+
 
 ## Info
 
