@@ -36,6 +36,9 @@
 
 ![image](https://user-images.githubusercontent.com/5669657/216305173-ff28ddb2-ebb7-4637-8417-4d4d47aba58b.png)
 
++ [Space-based solar power - Roland Berger](https://www.rolandberger.com/en/Insights/Publications/Space-based-Solar-Power.html)
+What is Space-based solar power?
+Space-based solar power (SBSP) is the concept of collecting solar power with a spacecraft in Earth orbit and distributing it to Earth. Unlike terrestrial systems, SBSP has the advantage of collecting solar energy in space, leading to a higher collection rate due to the lack of a diffusing atmosphere, and a longer collection period by placing a solar collector in an orbiting location.
 
 
 ## [ESA - ESA Council Meeting at Ministerial Level - Opening and Statements](https://www.esa.int/ESA_Multimedia/Videos/2022/11/ESA_Council_Meeting_at_Ministerial_Level_-_Opening_and_Statements)
