@@ -25,8 +25,8 @@
 + https://www8.cao.go.jp/cstp/stmain/wg3-5-1.pdf
 + [Naoki SHINOHARA](http://space.rish.kyoto-u.ac.jp/people/shino/index-e.htm)
 + [Naoki Shinohara - MTT-S](https://mtt.org/profile/naoki-shinohara/)
-+ [Space Structure Systems Laboratory](https://stage.tksc.jaxa.jp/taurus/member/miyazaki/old/e/topics/FY2016_02/index.html)
-+ [Space Structure Systems Laboratory](https://stage.tksc.jaxa.jp/taurus/member/miyazaki/old/e/topics/FY2016_02/index.html)
++ [Space Structure Systems Laboratory](https://stage.tksc.jaxa.jp/taurus/member/miyazaki/old/e/topics/FY2016_02/index.html) 
++ [Efficiency Optimization of Laser-Based Wireless Power Transmission System - Power Electronics News](https://www.powerelectronicsnews.com/efficiency-optimization-of-laser-based-wireless-power-transmission-system/)
 + 
 
 ## menu
