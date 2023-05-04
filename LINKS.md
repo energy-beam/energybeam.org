@@ -11,3 +11,11 @@
 ### Companies:
 
 + [SpaceForest.pl](https://spaceforest.pl/)
+
+
+
+### Data, API
+
++ [Open Access Hub](https://scihub.copernicus.eu/)
+
+> The Copernicus Open Access Hub (previously known as Sentinels Scientific Data Hub) provides complete, free and open access to [Sentinel-1](https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-1), [Sentinel-2](https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-2), [Sentinel-3](https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-3) and [Sentinel-5P](https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-5p) user products, starting from the In-Orbit Commissioning Review (IOCR).
